@@ -1,4 +1,4 @@
-# Nutrient analysis of estuarine fish and other animal-source foods
+# Nutrient concentrations between estuarine fish and other animal-based foods
 
 This repository contains the data and R scripts used in the manuscript:  
 **"The potential of estuarine fishes in supplying micronutrients to coastal and traditional populations in Northeast Brazil"**
@@ -8,9 +8,10 @@ This repository contains the data and R scripts used in the manuscript:
 - **R/**: R scripts used for data cleaning, statistical analysis, and visualization.
   - `artic_reviw.R`: Script used for systematic review analyses.
   - `script_pecon.R`:
-  - Data cleaning; perform of Principal Component Analysis to summarize nutrient variation across food categories;
-  - runs PERMANOVA and post-hoc permutation tests to compare nutrient concentrations among food categories;
-  - generates figures for the manuscript.
+  - Data cleaning;
+  - Perform of Principal Component Analysis to summarize nutrient variation across food categories;
+  - Runs PERMANOVA and post-hoc permutation tests to compare nutrient concentrations among food categories;
+  - Generates figures for the manuscript.
 - **output/**: output files (tables and figures).
 
 ## How to use
