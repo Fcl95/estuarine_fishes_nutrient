@@ -2,6 +2,7 @@
 
 This repository contains the data and R scripts used in the manuscript:  
 **"The potential of estuarine fishes in supplying micronutrients to coastal and traditional populations in Northeast Brazil"**
+https://doi.org/10.1016/j.pecon.2025.10.001
 
 ## Repository structure
 - **data/**: includes raw and processed datasets (Papers from systematic review, nutrient concentrations for estuarine fishes and animal-source foods).
